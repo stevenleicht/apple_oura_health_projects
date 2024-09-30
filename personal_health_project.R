@@ -4,6 +4,7 @@ library(caret)
 library(car)
 library(ggplot2)
 library(tidyr)
+library(randomForest)
 
 #Importing the data:
 file_path = "/Users/stevenleicht/Desktop/personal_health_data.csv"
